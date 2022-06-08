@@ -1,0 +1,197 @@
+
+/*
+Mondestin 20/06/2019
+*/
+.nav_menu {
+    /*position: fixed!important;*/
+   	box-shadow: 0 0 22px rgba(0, 0, 0, 0.5)!important;
+    z-index: 1!important; 
+    top: 0!important; 
+}
+
+.login_content form div  button{
+    width: 60%!important;
+}
+
+.layout-content{
+    position: relative;
+    z-index: 0!important;
+}
+.cotes{
+    position: relative;
+    z-index: 0!important;
+}
+.message{
+    margin-right: 2%;
+    z-index: 1!important;
+}
+
+.right{
+    margin-left: 63%; 
+    position: fixed;    
+}
+.droite{
+  float: right;
+}
+.shadow{
+   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2)!important;
+}
+.logins{
+    padding: 20px!important;
+    border-radius: 5px;
+   box-shadow: 0 0 12px rgba(0, 0, 0, 0.5)!important;
+}
+
+.margin-bottom {
+  margin-bottom: 20px !important;
+}
+.bold {
+  font-weight: bold !important;
+}
+.default-padding {
+  padding: 0 15px !important;
+}
+img.full-width {
+  width: 100%;
+}
+.form-group {
+  border-bottom: 1px solid #ebebeb!important;
+  padding-bottom: 15px!important;
+  padding-top: 5px!important;
+  margin-bottom: 0px;
+}
+.form-control {
+    border-radius: 4px!important;
+    width: 100%;
+}
+.students_list{
+    padding: 15px!important;
+}
+
+/*
+Mondestin 23/06/2019
+*/
+.raduis{
+  border-radius: 5px!important;
+}
+.btn-add{
+  width: 100%!important;
+}
+.panel-primary {
+    box-shadow: 0 0 20px rgba(0,0,0,0.11)!important;
+}
+.counter {
+    font-size: 18px!important;
+    font-weight: 500!important;
+    line-height: 1.65857!important;
+}
+
+div.box {
+     height: auto!important; 
+     overflow: none!important;
+}
+.ui-pnotify.dark .ui-pnotify-container {
+  display: none!important;
+}
+.inner{
+  display: block!important;
+}
+.dropdown-menu .dropdown-usermenu .pull-right {
+    width: 0px!important;
+}
+.panel-primary>.panel-heading {
+    color: #fff!important;
+    background-color: #2A3F54!important;
+     border-color: #2A3F54!important; 
+}
+.panel-primary {
+    border-color: #fff!important; 
+}
+
+.add-btn{
+  margin: 10px;
+}
+.stat-vw{
+  margin: 15px;
+}
+.modal-footer {
+    padding: 5px!important;
+  }
+.s-pad{
+  padding: 3px!important;
+}
+.sbon-pad{
+  padding: 4px!important;
+}
+.display_text{
+  margin: 10px!important;
+}
+.form-pad{
+  margin: 20px!important;
+}
+.new-bon-form{
+  margin-top: 3%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.form-title{
+  text-align: center;
+  height: 40px;
+}
+.border{
+  border: 1px solid #0089DA!important;
+  padding: 20px;
+}
+.nbon-adjust{
+  margin-top: 15px!important;
+  height: 33px!important;
+  font-size: 18px!important;
+}
+.nbon-input{
+  height: 45px!important;
+  overflow-y: scroll;
+}
+.prevision-form{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.form-prev{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.status{
+  height: 10px;
+  padding: 0px;
+  margin:0px;
+}
+.travail{
+  border: 1px solid #eee;
+}
+.w-info{
+  margin: 5px;
+}
+.voyage-border{
+  border-left: 5px solid #eee;
+}
+.top{
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+.profile-i{
+  margin-left: 12%!important;
+}
+.infos-panel{
+  margin-right: 0px!important;
+  padding-right: 0px!important;
+}
+/*.profile-pic{
+      box-shadow: 0px 0px 60px 5px rgba(0, 0, 0, 0.4);
+}*/
+
+img.avatar, ul.messages li img.avatar {
+    height: 52px!important;
+    width: 52px!important;
+    border-radius: 50%!important;
+    }
