@@ -2,12 +2,12 @@
 Truck managment System in PHP
 Stack used: 
 FRONT
-  -HTML
-  -CSS
-  -JavaScript
-  -DataTable
+  - HTML
+  - CSS
+  - JavaScript
+  - DataTable
 BACK
-  -PHP
+  - PHP
 DB
   - MariaDB
   - MySqli
