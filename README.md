@@ -1,5 +1,5 @@
 # Utruck
-Truck managment System in PHP
+Truck Managment System in PHP
 
 Stack used: 
 
