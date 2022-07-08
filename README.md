@@ -7,6 +7,7 @@ FRONT
   - HTML
   - CSS
   - JavaScript
+  - Bootstrap 
   - DataTable
  
 BACK
